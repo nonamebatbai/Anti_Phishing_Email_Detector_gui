@@ -5,11 +5,11 @@ Analyzes email content, headers, and links to identify phishing attacks, calcula
 ## 📸 Screenshots
 ![Screenshot 1](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(60).png)
 
-![Screenshot 2](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(60).png)
+![Screenshot 2](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(61).png)
 
-![Screenshot 3](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(61).png)
+![Screenshot 3](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(62).png)
 
-![Screenshot 4](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(62).png)
+![Screenshot 4](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(63).png)
 
 ## 🏷️ Tags
 
