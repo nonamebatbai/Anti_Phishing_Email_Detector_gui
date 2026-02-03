@@ -366,7 +366,7 @@ No:
 
 ## 🧾 Disclaimer
 
->[!disclaimer]
+>[!disclaim]
 > This project is developed **for educational and research purposes only**.
 > The developer is **not responsible for misuse** or damages caused by reliance solely on this tool.
 
