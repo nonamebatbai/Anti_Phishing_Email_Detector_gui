@@ -66,7 +66,6 @@ This project provides a **complete AI‑powered solution** to detect such phishi
 | AI Security Tools    | High demand      |
 | Academic Value       | FYP / Research   |
 | Commercial Value     | SaaS / Product   |
-| --- | --- |
 
 👉 **This project can be converted into:**
 
@@ -242,7 +241,6 @@ anti_phishing_email_detector/
 | `get_email_history()`  | View history       |
 | `train_model.py`       | Train ML           |
 | `evaluate_model.py`    | Evaluate ML        |
-| --- | --- |
 
 ## 🖥️ GUI Working
 
